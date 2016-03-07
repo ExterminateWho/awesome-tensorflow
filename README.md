@@ -16,7 +16,7 @@ For a list of free machine learning books available for download, go [here](http
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
-- [Java](#java)
+- [C](#java)
     - [Natural Language Processing](#java-nlp)
     - [General-Purpose Machine Learning](#java-general-purpose)
     - [Data Analysis / Data Visualization](#java-data-analysis)
@@ -76,6 +76,10 @@ For a list of free machine learning books available for download, go [here](http
 * [NeuralArt](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style by Tensorflow.
 * [Generative Handwriting Demo using TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow) - An attempt to implement the random handwriting generation portion of Alex Graves' paper.
 * 
+
+## Powered by TensorFlow
+
+* []() - 
 
 <a name="credits" />
 ## Credits
