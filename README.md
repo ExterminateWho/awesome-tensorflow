@@ -26,6 +26,7 @@ For a list of free machine learning books available for download, go [here](http
     - [Powered by TensorFlow](#github-powered-by)
 - [Videos](#video)
 - [Papers](#papers)
+- [Blogposts on Tensor Flow](#blogs)
 
 <!-- /MarkdownTOC -->
 
@@ -90,6 +91,10 @@ For a list of free machine learning books available for download, go [here](http
 ##Papers
 *[TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google.
 *[]() - 
+
+<a name="blogs" />
+##Blogposts on Tensor Flow
+
 
 
 <a name="credits" />
